@@ -1,4 +1,4 @@
-### Hi there Im Klavs a upcoming and hard working softwere enginee 👋
+### Hi there Im Klavs a upcoming and hard working softwere engineer 👋
 
 
 - 🔭 I’m currently working on https://github.com/klavsc/codelex-blog
