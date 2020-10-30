@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there Im Klavs a upcoming and hard working softwere engineer 👋
 
-<!--
-**klavsc/klavsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
