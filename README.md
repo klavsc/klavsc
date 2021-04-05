@@ -1,6 +1,6 @@
 ### Hi there Im Klavs a upcoming and hard working softwere engineer 👋
 
 
-- 🔭 I’m currently working on https://github.com/klavsc/codelex-blog
+- 🔭 My latest project https://github.com/klavsc/MegacodeHometask
 - 📫 How to reach me: https://www.linkedin.com/in/klavsc/
 
